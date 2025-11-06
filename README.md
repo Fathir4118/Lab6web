@@ -338,7 +338,7 @@ KELAS : TI.24.A.4
 ![gambar](https://github.com/Fathir4118/Lab6web/blob/main/Image/Screenshot_20251106_150246.jpg)
 
 #3
-```
+```html
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -569,4 +569,4 @@ KELAS : TI.24.A.4
 
 #OUTPUT HASIL
 
-![gambar](https://github.com/Abcdeflahhh/LAB6WEBPW/blob/79f8e392ff837491278c4b2606f482f19446963d/image/Screenshot%202025-10-30%20143807.png)
+![gambar](https://github.com/Fathir4118/Lab6web/blob/main/Image/IMG_20251106_152610.jpg)
