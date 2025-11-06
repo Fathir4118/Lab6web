@@ -206,7 +206,7 @@ KELAS : TI.24.A.4
 ![gambar](https://github.com/Fathir4118/Lab6web/blob/main/Image/IMG_20251106_150213.jpg)
 
 #2
-```
+```html
 <!DOCTYPE html>
 <html lang="id">
 <head>
@@ -344,7 +344,7 @@ KELAS : TI.24.A.4
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1">
-  <title>Portfolio Afii ✨</title>
+  <title>Portfolio Muhammad Fathir Nurcholis ✨</title>
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/css/bootstrap.min.css" rel="stylesheet">
   <style>
     body {
@@ -458,7 +458,7 @@ KELAS : TI.24.A.4
   <!-- Navbar -->
   <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
     <div class="container">
-      <a class="navbar-brand" href="#">Afii <span style="color:#fff;">Portfolio</span></a>
+      <a class="navbar-brand" href="#">Fathir <span style="color:#fff;">Portfolio</span></a>
       <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navMenu">
         <span class="navbar-toggler-icon"></span>
       </button>
@@ -476,12 +476,12 @@ KELAS : TI.24.A.4
   <section id="tentang" class="container py-5 mt-5 fade-in">
     <div class="row align-items-center">
       <div class="col-md-4 text-center mb-4 mb-md-0">
-        <img src="https://via.placeholder.com/250" class="img-fluid rounded-circle" alt="Foto Afii">
+        <img src="https://via.placeholder.com/250" class="img-fluid rounded-circle" alt="Foto Fathir">
       </div>
       <div class="col-md-8">
-        <h2>Rafli Anugrah (Afii)</h2>
-        <p>Halo! Aku <span style="color:#d4af37;">Afii</span>, seorang mahasiswa yang tertarik di dunia <b>web development</b>. Aku fokus pada <b>front-end design</b> dan suka bikin tampilan web yang interaktif, responsif, dan estetik.  
-        Aku percaya desain bukan cuma soal visual — tapi juga soal pengalaman pengguna yang nyaman dan bermakna.</p>
+        <h2>Muhammad Fathir Nurcholis (Felix)</h2>
+        <p>Halo! Aku <span style="color:#d4af37;">Fathir</span>, seorang mahasiswa yang tertarik di dunia <b>Menulis</b>. Aku fokus pada <b>Karya Novel</b> dan suka bikin sebuah tulisan/kisah yang menyentuh hati para pembaca. 
+        Aku percaya menulis bukan cuma soal tulisan baku — tapi juga soal rasa bagi para pembaca.</p>
         <a href="#portfolio" class="btn btn-gold mt-3">Lihat Karya ✨</a>
       </div>
     </div>
@@ -496,7 +496,7 @@ KELAS : TI.24.A.4
           <img src="https://via.placeholder.com/350x200" class="card-img-top" alt="Proyek 1">
           <div class="card-body">
             <h5 class="card-title">Proyek 1</h5>
-            <p class="card-text">Website sederhana dengan tampilan responsif menggunakan Bootstrap.</p>
+            <p class="card-text">Psikolog tanpa gelar.</p>
           </div>
         </div>
       </div>
@@ -506,7 +506,7 @@ KELAS : TI.24.A.4
           <img src="https://via.placeholder.com/350x200" class="card-img-top" alt="Proyek 2">
           <div class="card-body">
             <h5 class="card-title">Proyek 2</h5>
-            <p class="card-text">Aplikasi pengingat sholat berbasis web dengan fitur alarm otomatis.</p>
+            <p class="card-text">yang masih bersinggah di hati.</p>
           </div>
         </div>
       </div>
@@ -516,7 +516,7 @@ KELAS : TI.24.A.4
           <img src="https://via.placeholder.com/350x200" class="card-img-top" alt="Proyek 3">
           <div class="card-body">
             <h5 class="card-title">Proyek 3</h5>
-            <p class="card-text">Sistem manajemen data mahasiswa dengan CRUD sederhana.</p>
+            <p class="card-text">The thing.</p>
           </div>
         </div>
       </div>
@@ -549,7 +549,7 @@ KELAS : TI.24.A.4
 
   <!-- Footer -->
   <footer class="text-center py-4 mt-4">
-    <p>&copy; 2025 <span>Afii</span> | Dibuat dengan ❤️ & Bootstrap</p>
+    <p>&copy; 2025 <span>fathir</span> | Dibuat dengan ❤️ & Bootstrap</p>
   </footer>
 
   <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"></script>
